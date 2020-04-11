@@ -30,7 +30,7 @@ main {
     justify-content: center;
     flex-direction: column;
     height: inherit;
-    width: 29vw;
+    min-width: 29vw;
     background-color: white;
     border-radius: 20px 20px 20px 2px;
     text-align: left;
